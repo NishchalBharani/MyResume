@@ -8,11 +8,7 @@ function Navbar() {
                 <div className="container">
                     <div className="nav-wrapper">
                         <Link to="/" className="brand-logo">Resume</Link>
-                        <Link to="/" data-target="side-nav" className="sidenav-trigger">
-                                                        <i className="material-icons">
-                                                            Menu
-                                                        </i>
-                        </Link>
+                        
                         <ul className="right hide-on-med-and-down">
                             <li>
                                 <Link to="/">

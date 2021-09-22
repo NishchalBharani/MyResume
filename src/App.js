@@ -1,7 +1,5 @@
 import React from 'react'
-import './App.css'
 import 'materialize-css/dist/css/materialize.min.css'
-import 'materialize-css/dist/js/materialize.min.js'
 import {BrowserRouter, Route, Switch} from 'react-router-dom'
 import Home from './Components/Home'
 import Skills from './Components/Skills'

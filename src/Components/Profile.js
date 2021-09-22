@@ -11,18 +11,18 @@ function Profile() {
                     
                 </div>
                 <div className="card-content">
-                    <span className="card-title black-text text-darken-3">
+                    <div className="card-title black-text text-darken-3">
                         Nishchal Bharani
-                    </span>
+                    </div>
                     <p>Front-End Developer</p>
                 </div>
                 
             </div>
             <div className="card">
                 <div className="card-content">
-                    <span className="card-title black-text text-darken-3">
+                    <div className="card-title black-text text-darken-3">
                         Languages
-                    </span>
+                    </div>
                     <p>English</p>
                     <p>Kannada</p>
                     <p>Hindi</p>
@@ -30,9 +30,9 @@ function Profile() {
             </div>
             <div className="card">
                 <div className="card-content">
-                    <span className="card-title black-text text-darken-3">
+                    <div className="card-title black-text text-darken-3">
                         Hobbies
-                    </span>
+                    </div>
                     <p>Sports</p>
                     <p>Rapping</p>
                     <p>PC games</p>
